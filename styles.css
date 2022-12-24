@@ -1,0 +1,9 @@
+#nav {
+    position: fixed;
+}
+.top {
+    margin-top: 60px;
+}
+.right {
+    float: right;
+}
